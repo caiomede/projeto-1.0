@@ -1,0 +1,15 @@
+body{
+    background-color: #1C1C1C;
+    color: #ffffff
+    font-family: monospace;
+}
+
+.title{
+    font-size: 54px;
+    color: #00ff7f;
+}
+
+.list-item{
+    margin-bottom: 12px;
+    font-size: 43px;
+}
